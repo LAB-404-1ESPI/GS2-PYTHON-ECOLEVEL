@@ -3,6 +3,16 @@ EcoLevel - protótipo acadêmico em Python
 Execução: python main.py
 """
 
+"""
+GRUPO - LAB-404
+INTEGRANTES:
+      Arthur Caram Fiorese Herrada - RM569578
+	  Matheus Medeiros da Cunha - RM572780
+	  Matheus Sequeira Franco da Silva - RM571127
+	  Gustavo Ferreira Silva - RM571675
+	  Felipe Ricardo Moreira Aguiar - RM573410
+"""
+
 import json
 import os
 from datetime import datetime

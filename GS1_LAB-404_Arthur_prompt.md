@@ -1,3 +1,12 @@
+GRUPO - LAB-404
+INTEGRANTES:
+      Arthur Caram Fiorese Herrada - RM569578
+	  Matheus Medeiros da Cunha - RM572780
+	  Matheus Sequeira Franco da Silva - RM571127
+	  Gustavo Ferreira Silva - RM571675
+	  Felipe Ricardo Moreira Aguiar - RM573410
+
+
 Durante o desenvolvimento do projeto EcoLevel, utilizamos a Inteligência Artificial como ferramenta de apoio para solucionar dúvidas pontuais, melhorar a organização do código e auxiliar na documentação do projeto.
 
 A IA foi utilizada principalmente para:
